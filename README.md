@@ -21,7 +21,7 @@ This project demonstrates how to build a full-stack machine learning application
 ✔ Real-time results shown on the web page
 ✔ Easy to extend for future improvements
 
-📁 Repository Structure
+```📁 Repository Structure
 house_pricing/
 │── app.py                  # Flask application
 │── regmodel.pkl            # Serialized ML model
@@ -30,7 +30,7 @@ house_pricing/
 │   └── home.html           # Frontend HTML form
 ├── .gitignore
 └── README.md
-
+```
 
 🧠 How It Works
 
@@ -106,7 +106,7 @@ Fill in the form and click Predict Price to get the result!
 
 ⚙ Sample house features:
 
-Feature	Example Value
+```Feature	Example Value
 CRIM	0.00632
 ZN	18.00
 INDUS	2.31
@@ -119,7 +119,7 @@ RAD	1.00
 TAX	296.00
 PTRATIO	15.30
 BLACK	396.90
-LSTAT	4.98
+LSTAT	4.98```
 📈 Screenshots
 
 ![Form Screenshot](Screenshot.png)

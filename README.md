@@ -119,7 +119,8 @@ RAD	1.00
 TAX	296.00
 PTRATIO	15.30
 BLACK	396.90
-LSTAT	4.98```
+LSTAT	4.98 
+```
 📈 Screenshots
 
 ![Form Screenshot](Screenshot.png)

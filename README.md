@@ -31,6 +31,7 @@ house_pricing/
 ├── .gitignore
 └── README.md
 
+
 🧠 How It Works
 
 Train a machine learning model (done separately)
@@ -120,9 +121,6 @@ PTRATIO	15.30
 BLACK	396.90
 LSTAT	4.98
 📈 Screenshots
-
-(Add your own screenshots here!)
-Example:
 
 ![Form Screenshot](Screenshot.png)
 
